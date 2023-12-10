@@ -4870,3 +4870,100 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2023.12.10-17.07.23:706][502]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/StartingPoint' took 0.006
 [2023.12.10-17.17.24:419][304]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
 [2023.12.10-17.17.24:420][304]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/StartingPoint' took 0.006
+[2023.12.10-17.27.25:116][106]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2023.12.10-17.27.25:117][106]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/StartingPoint' took 0.005
+[2023.12.10-17.37.05:882][269]LogSlate: Window 'Revision Control Login' being destroyed
+[2023.12.10-17.37.55:516][897]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2023.12.10-17.37.55:518][897]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/StartingPoint' took 0.006
+[2023.12.10-17.47.56:171][311]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2023.12.10-17.47.56:172][311]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/StartingPoint' took 0.006
+[2023.12.10-17.56.06:641][752]SourceControl: Error: Connection Error: Failed to enable Git revision control. You need to install Git and specify a valid path to git executable.
+[2023.12.10-17.56.46:471][295]LogSlate: Window 'Message Log' being destroyed
+[2023.12.10-17.56.46:475][295]LogSlate: Window 'Message Log' being destroyed
+[2023.12.10-17.56.53:431][127]SourceControl: Revision control is disabled
+[2023.12.10-17.56.53:431][127]LogSlate: Window 'Revision Control Login' being destroyed
+[2023.12.10-17.58.12:430][341]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2023.12.10-17.58.12:431][341]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/StartingPoint' took 0.006
+[2023.12.10-18.00.59:722][201]LogSlate: Window 'Plugins' being destroyed
+[2023.12.10-18.00.59:726][201]LogSlate: Window 'Plugins' being destroyed
+[2023.12.10-18.00.59:726][201]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/' was aborted.
+[2023.12.10-18.01.17:899][410]LogDerivedDataCache: C:/Users/marti/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:11.033 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 5596 files in 6385 folders with total size 839 MiB.
+[2023.12.10-18.08.13:169][655]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2023.12.10-18.08.13:171][655]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/StartingPoint' took 0.007
+[2023.12.10-18.18.13:865][457]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2023.12.10-18.18.13:866][457]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/StartingPoint' took 0.006
+[2023.12.10-18.28.14:254][258]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2023.12.10-18.28.14:256][258]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/StartingPoint' took 0.005
+[2023.12.10-18.38.12:881][ 60]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2023.12.10-18.38.12:882][ 60]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/StartingPoint' took 0.005
+[2023.12.10-18.47.42:630][770]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=System Default, InstanceID=1
+[2023.12.10-18.47.42:939][770]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=7656
+[2023.12.10-18.48.13:351][861]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2023.12.10-18.48.13:352][861]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/StartingPoint' took 0.006
+[2023.12.10-18.50.51:667][336]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=System Default, InstanceID=1
+[2023.12.10-18.50.51:729][336]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=ROG PG348Q (NVIDIA High Definition Audio), InstanceID=1
+[2023.12.10-18.50.52:284][337]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{16a7d623-c3fc-49f9-9d36-39aa6f48bf7d}, Name=ROG PG348Q (NVIDIA High Definition Audio)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=16.34
+[2023.12.10-18.50.52:284][337]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2023.12.10-18.50.52:285][337]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2023.12.10-18.56.55:394][427]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=System Default, InstanceID=1
+[2023.12.10-18.56.55:716][427]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=7656
+[2023.12.10-18.58.13:871][661]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2023.12.10-18.58.13:872][661]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/StartingPoint' took 0.005
+[2023.12.10-19.00.34:511][ 83]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=System Default, InstanceID=1
+[2023.12.10-19.00.34:570][ 83]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=ROG PG348Q (NVIDIA High Definition Audio), InstanceID=1
+[2023.12.10-19.00.34:925][ 84]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{16a7d623-c3fc-49f9-9d36-39aa6f48bf7d}, Name=ROG PG348Q (NVIDIA High Definition Audio)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=44.12
+[2023.12.10-19.00.34:925][ 84]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2023.12.10-19.00.34:927][ 84]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2023.12.10-19.01.16:959][211]LogDerivedDataCache: C:/Users/marti/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:10.093 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 5596 files in 6385 folders with total size 839 MiB.
+[2023.12.10-19.05.53:956][ 42]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=System Default, InstanceID=1
+[2023.12.10-19.05.54:282][ 42]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=7656
+[2023.12.10-19.08.14:422][462]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2023.12.10-19.08.14:423][462]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/StartingPoint' took 0.006
+[2023.12.10-19.33.43:514][945]LogAudioMixer: Warning: FMixerNullCallback: Large time delta between simulated audio clock and realtime [-1032421ms], ThreadID=7656
+[2023.12.10-19.33.43:514][945]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2023.12.10-19.33.45:369][946]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=System Default, InstanceID=1
+[2023.12.10-19.33.45:424][946]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=ROG PG348Q (NVIDIA High Definition Audio), InstanceID=1
+[2023.12.10-19.33.46:373][949]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{16a7d623-c3fc-49f9-9d36-39aa6f48bf7d}, Name=ROG PG348Q (NVIDIA High Definition Audio)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=19.09
+[2023.12.10-19.33.46:373][949]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2023.12.10-19.33.46:374][949]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2023.12.10-19.33.55:110][975]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2023.12.10-19.33.55:111][975]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/StartingPoint' took 0.005
+[2023.12.10-19.43.55:482][776]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2023.12.10-19.43.55:483][776]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/StartingPoint' took 0.005
+[2023.12.10-19.53.56:198][578]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2023.12.10-19.53.56:199][578]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/StartingPoint' took 0.005
+[2023.12.10-20.03.56:935][380]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2023.12.10-20.03.56:937][380]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/StartingPoint' took 0.006
+[2023.12.10-20.08.24:517][183]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=System Default, InstanceID=1
+[2023.12.10-20.08.24:556][183]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=7656
+[2023.12.10-20.09.54:115][452]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=System Default, InstanceID=1
+[2023.12.10-20.09.54:158][452]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=ROG PG348Q (NVIDIA High Definition Audio), InstanceID=1
+[2023.12.10-20.09.54:741][453]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{16a7d623-c3fc-49f9-9d36-39aa6f48bf7d}, Name=ROG PG348Q (NVIDIA High Definition Audio)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=16.62
+[2023.12.10-20.09.54:741][453]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2023.12.10-20.09.54:742][453]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2023.12.10-20.13.57:481][181]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2023.12.10-20.13.57:482][181]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/StartingPoint' took 0.006
+[2023.12.10-20.14.49:441][338]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=System Default, InstanceID=1
+[2023.12.10-20.14.49:764][338]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=7656
+[2023.12.10-20.16.27:527][631]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=System Default, InstanceID=1
+[2023.12.10-20.16.27:569][632]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=ROG PG348Q (NVIDIA High Definition Audio), InstanceID=1
+[2023.12.10-20.16.28:542][634]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{16a7d623-c3fc-49f9-9d36-39aa6f48bf7d}, Name=ROG PG348Q (NVIDIA High Definition Audio)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=15.82
+[2023.12.10-20.16.28:542][634]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2023.12.10-20.16.28:543][634]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2023.12.10-20.18.29:363][997]LogDerivedDataCache: C:/Users/marti/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:10.087 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 5596 files in 6385 folders with total size 839 MiB.
+[2023.12.10-20.20.46:840][151]LogSlate: Window 'View Changes' being destroyed
+[2023.12.10-20.20.46:844][151]LogSlate: Window 'View Changes' being destroyed
+[2023.12.10-20.21.35:913][983]LogD3D12RHI: Warning: Descriptor cache ran out of sub allocated descriptor blocks! Moving to Context local View heap strategy
+[2023.12.10-20.21.35:913][983]LogD3D12RHI: This should only happen in the Editor where it doesn't matter as much. If it happens in game you should increase the device global heap size!
+[2023.12.10-20.23.58:030][714]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2023.12.10-20.23.58:031][714]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/StartingPoint' took 0.006
+[2023.12.10-20.33.58:448][515]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2023.12.10-20.33.58:449][515]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/StartingPoint' took 0.005
+[2023.12.10-20.34.01:057][524]LogD3D12RHI: OnlineHeap RollOver Detected. Increase the heap size to prevent creation of additional heaps
+[2023.12.10-20.37.50:084][870]LogSlate: External Image Picker: DecompressImage failed
+[2023.12.10-20.45.18:861][ 71]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2023.12.10-20.45.18:863][ 71]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/StartingPoint' took 0.006
+[2023.12.10-20.45.36:967][179]LogSlate: Window 'Project Settings' being destroyed
+[2023.12.10-20.45.36:971][179]LogSlate: Window 'Project Settings' being destroyed
+[2023.12.10-20.55.19:133][859]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2023.12.10-20.55.19:137][859]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/StartingPoint' took 0.008
