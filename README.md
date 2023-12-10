@@ -6,9 +6,9 @@ This project is a proof of concept for a social chat application that utilizes U
 
 Core Features:
 UE5 Subsystems to use:	Nanite and Lumen Reflections should be used wherever possible along with the newly available Procedural Content Generation system. Procedural textures will be used as needed along with exsisting Unreal Engine assets as found in Quixel or other free example/sample collections.
-    Island Generation: Procedurally generate islands with varying shapes, sizes, and heights.
-    Island Movement: Implement gentle, random movements for the islands to create a dynamic atmosphere.
 
+Island Generation: Procedurally generate islands with varying shapes, sizes, and heights.
+Island Movement: Implement gentle, random movements for the islands to create a dynamic atmosphere.
 Avatar Navigation: Allow users to navigate and explore the island environment using basic movement controls.
 Voice Chat Integration: Integrate voice chat functionality for real-time communication between users.
 Simple Mini-Game: Develop a simple mini-game within the island environment to demonstrate the concept of interactive experiences.
