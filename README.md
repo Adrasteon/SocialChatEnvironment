@@ -2,7 +2,7 @@
 
 
 Social Chat Environment: A Proof of Concept
-This project is a proof of concept for a social chat application that utilizes Unreal Engine 5 and PaLM2 (Pathway Language Model, version 2) to create a dynamic and engaging experience for users.
+This project is a proof of concept for a social chat application that utilizes Unreal Engine 5 and Google's Bard AI to create a dynamic and engaging experience for users.
 
 Core Features:
 UE5 Subsystems to use:	Nanite and Lumen Reflections should be used wherever possible along with the newly available Procedural Content Generation system. Procedural textures will be used as needed along with exsisting Unreal Engine assets as found in Quixel or other free example/sample collections.
@@ -30,7 +30,7 @@ Limitations:
     User Management and Security: Implementing robust user management and security systems will be beyond the scope of this initial prototype.
 
 Collaboration:
-    Code Generation: PaLM2 will generate code snippets and blueprints for various functionalities based on specifications provided by the developer.
+    Code Generation: Bard AI will generate code snippets and blueprints for various functionalities based on specifications provided by the developer.
     Implementation: The developer will integrate the generated code into the Unreal Engine project and implement additional features as needed.
     Testing and Feedback: We will work together to test the prototype, identify issues, and iterate on the design based on feedback.
 
